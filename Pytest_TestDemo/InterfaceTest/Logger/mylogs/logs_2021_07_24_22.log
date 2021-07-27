@@ -1,0 +1,4 @@
+INFO  2021-07-24 22:01:19,387     BaseFunction.py   正在对接口http://apis.juhe.cn/simpleWeather/query进行GET测试
+INFO  2021-07-24 22:37:42,421     BaseFunction.py   正在对接口200进行GET测试
+ERROR  2021-07-24 22:37:42,423     BaseFunction.py   Invalid URL '200': No schema supplied. Perhaps you meant http://200?
+INFO  2021-07-24 22:38:15,966     BaseFunction.py   正在对接口http://apis.juhe.cn/simpleWeather/query进行GET测试

@@ -1,0 +1,18 @@
+INFO  2021-07-27 09:45:03,797     BaseFunction.py   -------接口请求测试开始------
+INFO  2021-07-27 09:45:03,798     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-27 09:45:04,038     BaseFunction.py   正在发送数据{'city': '杭州1', 'key': '5509e786c0c9fda76fbf83719b868e38'}
+INFO  2021-07-27 09:45:04,038     BaseFunction.py   -------接口请求测试结束------
+INFO  2021-07-27 09:45:04,131     BaseFunction.py   -------接口请求测试开始------
+INFO  2021-07-27 09:45:04,131     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-27 09:45:04,329     BaseFunction.py   正在发送数据{'city': '新乡', 'key': '5509e786c0c9fda76fbf83719b868e38'}
+INFO  2021-07-27 09:45:04,329     BaseFunction.py   -------接口请求测试结束------
+INFO  2021-07-27 09:57:54,536     BaseFunction.py   -------接口请求测试开始------
+INFO  2021-07-27 09:57:54,536     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-27 09:57:54,815     BaseFunction.py   正在发送数据{'city': '杭州1', 'key': '5509e786c0c9fda76fbf83719b868e38'}
+INFO  2021-07-27 09:57:54,816     BaseFunction.py   接口实际返回数据为 {'reason': '暂不支持该城市', 'result': None, 'error_code': 207301}
+INFO  2021-07-27 09:57:54,816     BaseFunction.py   -------接口请求测试结束------
+INFO  2021-07-27 09:57:54,916     BaseFunction.py   -------接口请求测试开始------
+INFO  2021-07-27 09:57:54,916     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-27 09:57:55,139     BaseFunction.py   正在发送数据{'city': '新乡', 'key': '5509e786c0c9fda76fbf83719b868e38'}
+INFO  2021-07-27 09:57:55,139     BaseFunction.py   接口实际返回数据为 {'reason': '查询成功!', 'result': {'city': '新乡', 'realtime': {'temperature': '29', 'humidity': '78', 'info': '多云', 'wid': '01', 'direct': '南风', 'power': '2级', 'aqi': '51'}, 'future': [{'date': '2021-07-27', 'temperature': '25/32℃', 'weather': '小雨', 'wid': {'day': '07', 'night': '07'}, 'direct': '东北风转北风'}, {'date': '2021-07-28', 'temperature': '24/30℃', 'weather': '阴', 'wid': {'day': '02', 'night': '02'}, 'direct': '东北风转北风'}, {'date': '2021-07-29', 'temperature': '23/31℃', 'weather': '晴', 'wid': {'day': '00', 'night': '00'}, 'direct': '北风转西南风'}, {'date': '2021-07-30', 'temperature': '25/35℃', 'weather': '晴', 'wid': {'day': '00', 'night': '00'}, 'direct': '西南风'}, {'date': '2021-07-31', 'temperature': '25/36℃', 'weather': '晴', 'wid': {'day': '00', 'night': '00'}, 'direct': '东风转西风'}]}, 'error_code': 0}
+INFO  2021-07-27 09:57:55,139     BaseFunction.py   -------接口请求测试结束------

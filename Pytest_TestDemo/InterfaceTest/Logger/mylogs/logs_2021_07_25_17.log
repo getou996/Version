@@ -1,0 +1,13 @@
+INFO  2021-07-25 17:07:30,488     BaseFunction.py   正在对接口http://apis.juhe.cn/simpleWeather/query进行GET测试
+INFO  2021-07-25 17:37:19,320     BaseFunction.py   正在进行接口http://apis.juhe.cn/simpleWeather/query的get请求测试
+INFO  2021-07-25 17:38:40,490     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-25 17:40:19,490     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query1 发送 get 请求测试
+INFO  2021-07-25 17:40:48,086     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query1 发送 get 请求测试
+INFO  2021-07-25 17:41:11,695     BaseFunction.py   正在对接口 shttp://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+ERROR  2021-07-25 17:41:11,698     BaseFunction.py   No connection adapters were found for 'shttp://apis.juhe.cn/simpleWeather/query'
+INFO  2021-07-25 17:41:56,379     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-25 17:42:24,983     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-25 17:45:11,692     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-25 17:46:47,007     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-25 17:48:53,364     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-25 17:49:47,809     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试

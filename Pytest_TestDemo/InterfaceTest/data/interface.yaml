@@ -1,0 +1,13 @@
+-
+  methond: 'get'
+  url: 'http://apis.juhe.cn/simpleWeather/query'
+  data:
+    city: '杭州1'
+    key: '5509e786c0c9fda76fbf83719b868e38'
+#  text: 200
+-
+  methond: 'get'
+  url: 'http://apis.juhe.cn/simpleWeather/query'
+  data:
+    city: '新乡'
+    key: '5509e786c0c9fda76fbf83719b868e38'

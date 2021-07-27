@@ -1,0 +1,56 @@
+INFO  2021-07-25 21:15:16,508     Get_log.py   -------接口请求测试开始------
+INFO  2021-07-25 21:15:16,536     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-25 21:15:16,782     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-25 21:17:15,900     Get_log.py   -------接口请求测试开始------
+INFO  2021-07-25 21:17:15,928     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-25 21:17:16,129     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-25 21:17:57,831     Get_log.py   -------接口请求测试开始------
+INFO  2021-07-25 21:33:23,076     Get_log.py   -------接口请求测试开始------
+INFO  2021-07-25 21:33:23,105     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-25 21:33:23,364     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-25 21:35:00,483     Get_log.py   -------接口请求测试开始------
+INFO  2021-07-25 21:35:08,307     Get_log.py   -------接口请求测试开始------
+INFO  2021-07-25 21:37:31,988     Get_log.py   -------接口请求测试开始------
+INFO  2021-07-25 21:37:32,015     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-25 21:37:32,242     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-25 21:38:48,906     Get_log.py   -------接口请求测试开始------
+INFO  2021-07-25 21:40:16,668     Get_log.py   -------接口请求测试开始------
+INFO  2021-07-25 21:41:07,757     Get_log.py   -------接口请求测试开始------
+INFO  2021-07-25 21:41:07,785     Get_log.py   -------接口请求测试开始------
+INFO  2021-07-25 21:41:07,785     Get_log.py   -------接口请求测试开始------
+INFO  2021-07-25 21:41:07,883     Get_log.py   -------接口请求测试开始------
+INFO  2021-07-25 21:41:07,883     Get_log.py   -------接口请求测试开始------
+INFO  2021-07-25 21:41:07,883     Get_log.py   -------接口请求测试开始------
+INFO  2021-07-25 21:41:51,372     Get_log.py   -------接口请求测试开始------
+INFO  2021-07-25 21:41:51,399     Get_log.py   -------接口请求测试开始------
+INFO  2021-07-25 21:41:51,399     Get_log.py   -------接口请求测试开始------
+INFO  2021-07-25 21:41:51,399     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-25 21:41:51,399     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-25 21:41:51,627     Get_log.py   -------接口请求测试开始------
+INFO  2021-07-25 21:41:51,627     Get_log.py   -------接口请求测试开始------
+INFO  2021-07-25 21:41:51,627     Get_log.py   -------接口请求测试开始------
+INFO  2021-07-25 21:41:51,627     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-25 21:41:51,627     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-25 21:41:51,627     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-25 21:42:23,232     Get_log.py   -------接口请求测试开始------
+INFO  2021-07-25 21:42:23,261     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-25 21:42:23,459     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-25 21:44:11,994     Get_log.py   -------接口请求测试开始------
+INFO  2021-07-25 21:44:11,994     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-25 21:44:12,190     Get_log.py   -------接口请求测试开始------
+INFO  2021-07-25 21:44:12,190     Get_log.py   -------接口请求测试开始------
+INFO  2021-07-25 21:44:12,190     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-25 21:44:12,190     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-25 21:47:17,321     Get_log.py   -------接口请求测试开始------
+INFO  2021-07-25 21:47:17,348     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-25 21:47:17,572     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-25 21:48:41,362     BaseFunction.py   -------接口请求测试开始------
+INFO  2021-07-25 21:48:41,362     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-25 21:48:41,564     BaseFunction.py   -------接口请求测试开始------
+INFO  2021-07-25 21:48:41,564     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-25 21:49:19,452     BaseFunction.py   -------接口请求测试开始------
+INFO  2021-07-25 21:49:19,452     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-25 21:49:19,665     BaseFunction.py   -------接口请求测试结束------
+INFO  2021-07-25 21:49:19,759     BaseFunction.py   -------接口请求测试开始------
+INFO  2021-07-25 21:49:19,760     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-25 21:49:19,824     BaseFunction.py   -------接口请求测试结束------

@@ -1,0 +1,10 @@
+INFO  2021-07-27 10:00:04,819     BaseFunction.py   -------接口请求测试开始------
+INFO  2021-07-27 10:00:04,819     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-27 10:00:05,058     BaseFunction.py   正在发送数据{'city': '杭州1', 'key': '5509e786c0c9fda76fbf83719b868e38'}
+INFO  2021-07-27 10:00:05,058     BaseFunction.py   接口实际返回数据为reason: 暂不支持该城市
+INFO  2021-07-27 10:00:05,058     BaseFunction.py   -------接口请求测试结束------
+INFO  2021-07-27 10:00:05,151     BaseFunction.py   -------接口请求测试开始------
+INFO  2021-07-27 10:00:05,151     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-27 10:00:05,307     BaseFunction.py   正在发送数据{'city': '新乡', 'key': '5509e786c0c9fda76fbf83719b868e38'}
+INFO  2021-07-27 10:00:05,307     BaseFunction.py   接口实际返回数据为reason: 查询成功!
+INFO  2021-07-27 10:00:05,308     BaseFunction.py   -------接口请求测试结束------

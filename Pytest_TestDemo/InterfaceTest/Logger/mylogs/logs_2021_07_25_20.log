@@ -1,0 +1,2 @@
+INFO  2021-07-25 20:17:21,952     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
+INFO  2021-07-25 20:17:23,591     BaseFunction.py   正在对接口 http://apis.juhe.cn/simpleWeather/query 发送 get 请求测试
